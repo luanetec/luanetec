@@ -1,5 +1,5 @@
 ### Hi there 👋
--🌱 I’m currently studying on etec antonio devisate
+-🌱 atualmente estudando na etec antonio devisate
 
 <!--
 **luanetec/luanetec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
